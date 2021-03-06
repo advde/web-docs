@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://docs.advde.com/about/</loc>
+    <lastmod>2021-03-07T13:34:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/</loc>
+    <lastmod>2020-09-08T20:40:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/404.html</loc>
+    <lastmod>2020-09-08T20:40:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/_layout/</loc>
+    <lastmod>2020-08-20T15:41:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/_layout/footer/</loc>
+    <lastmod>2020-08-20T15:41:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/_layout/sidebar-before/</loc>
+    <lastmod>2020-08-20T11:08:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/_layout/sidebar-after/</loc>
+    <lastmod>2020-08-20T11:07:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/_layout/article-sidebar-after/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/_layout/netlifycms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/admin/config.yml</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.advde.com/admin/index.html/</loc>
+  </url>
+  
+</urlset>
