@@ -1,0 +1,8 @@
+[submodule "site-template/themes/hugo-theme-docport"]
+	path = site-template/themes/hugo-theme-docport
+	url = https://github.com/advde/web-hugo-themes.git
+	branch = hugo-theme-docport
+[submodule "site-raw-docs"]
+	path = site-raw-docs
+	url = https://github.com/advde/docs-public.git
+	branch = web-docs

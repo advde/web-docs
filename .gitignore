@@ -1,0 +1,8 @@
+site-template/archetypes
+site-template/data
+site-template/layouts
+site-template/static
+site-template/public
+site-template/resources
+site-template/*.toml
+site-template/content
